@@ -46,6 +46,6 @@ CSS art , <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/rea
 [3]: https://www.facebook.com/alexandra.banica.94
 [4]: https://www.linkedin.com/in/alexandra-banica-62005ab3/
 
-# For those who are curious about my acting skills
+### For those who are curious about my acting skills
 
-[5] https://www.instagram.com/alexandra_banica_/
+[5]: https://www.instagram.com/alexandra_banica_/
