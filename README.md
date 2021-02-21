@@ -31,4 +31,4 @@ Because I'm a creative being it came natural to me to be interested in Front-end
 
 ### What I know so far 
 
-<img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/html.png"> [![CSS icon]("https://github.com/Alexjesss/Alexjesss/blob/main/visuals/css.png")]  [![PHP icon]("https://github.com/Alexjesss/Alexjesss/blob/main/visuals/php.png")]  [![JS icon]("https://github.com/Alexjesss/Alexjesss/blob/main/visuals/js.png")]  
+<img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/html.png"> <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/css.png">  <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/js.png"> <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/php.png">  
