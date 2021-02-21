@@ -31,4 +31,8 @@ Because I'm a creative being it came natural to me to be interested in Front-end
 
 ### What I know so far 
 
-<img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/html.png"> <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/css.png">  <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/js.png"> <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/php.png">  
+<img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/html.png"> <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/css.png">  <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/js.png"> <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/php.png"> <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/bootstrap.png"> to be continued... 
+
+### What I'd like to learn
+
+CSS art , <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/react.png"> <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/vuejs.png"> to be continued...
