@@ -1,7 +1,9 @@
-### Hi there 👋
 
-<!--
-**Alexjesss/Alexjesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###✨ Hello you, welcome to my Github! ✨
+
+![introduction gif ; video by Danial Ahmed from Pexels ](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/intro.gif) 
+
+
 
 Here are some ideas to get you started:
 
