@@ -3,7 +3,7 @@
 
 <div style="text-align: center"><img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/intro.gif" width="600px" alt="video by Danial Ahmed from Pexels" title="intro-gif"/>
 </div>
-## Get to know me! :raising_hand_woman:
+# Get to know me! :raising_hand_woman:
 
 My name is Alexandra. I live in Antwerp, Belgium and I'm 27 years old.
 From the gif above some would guess that I'm into nature and for those who guessed it, you were absolutely right!
@@ -30,4 +30,4 @@ Because I'm a creative being it came natural to me to be interested in Front-end
 
 ### What I know so far 
 
-[![HTML icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/html.png" alt="icon")] [![CSS icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/css.png" alt="icon")]  [![PHP icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/php.png" alt="icon")]  [![JS icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/js.png" alt="icon")]  
+[![HTML icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/html.png")] [![CSS icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/css.png")]  [![PHP icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/php.png")]  [![JS icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/js.png")]  
