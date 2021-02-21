@@ -30,4 +30,4 @@ Because I'm a creative being it came natural to me to be interested in Front-end
 
 ### What I know so far 
 
-[<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/html.svg" alt="icon"] [<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/css.svg" alt="icon"] [<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/js.svg" alt="icon"] [<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/php.svg" alt="icon"]  
+[<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/html.svg" alt="icon">] [<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/css.svg" alt="icon">] [<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/js.svg" alt="icon">] [<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/php.svg" alt="icon">]  
