@@ -1,8 +1,8 @@
 
 ## <strong>✨ Hello you, welcome to my Githubpage! ✨</strong>
 
-<img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/intro.gif" width="600px" align="center" alt="video by Danial Ahmed from Pexels" title="intro-gif"/>
-
+<div style="text-align: center"><img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/intro.gif" width="600px" alt="video by Danial Ahmed from Pexels" title="intro-gif"/>
+</div>
 ## Get to know me! :raising_hand_woman:
 
 My name is Alexandra. I live in Antwerp, Belgium and I'm 27 years old.
@@ -30,4 +30,4 @@ Because I'm a creative being it came natural to me to be interested in Front-end
 
 ### What I know so far 
 
-<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/html.png" alt="icon"> [<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/css.png" alt="icon">] [<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/js.png" alt="icon">] [<img src="https://github.com/Alexjesss/Alexjesss/tree/main/visuals/php.png" alt="icon">]  
+[![HTML icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/html.png" alt="icon")] [![CSS icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/css.png" alt="icon")]  [![PHP icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/php.png" alt="icon")]  [![JS icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/js.png" alt="icon")]  
