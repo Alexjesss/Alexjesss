@@ -36,3 +36,16 @@ Because I'm a creative being it came natural to me to be interested in Front-end
 ### What I'd like to learn
 
 CSS art , <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/react.png"> <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/vuejs.png"> to be continued...
+
+## Contact me here!
+
+[![github](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/github.png)][1][![mail](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/mail.png)][2][![facebook](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/fb.png)][3][![linkedin](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/linkedin.png)][4][![instagram](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/instagram.png)][5]
+
+[1]: http://www.github.com/Alexjesss
+[2]: <mailto:banica9221@hotmail.be>
+[3]: https://www.facebook.com/alexandra.banica.94
+[4]: https://www.linkedin.com/in/alexandra-banica-62005ab3/
+
+# For those who are curious about my acting skills
+
+[5] https://www.instagram.com/alexandra_banica_/
