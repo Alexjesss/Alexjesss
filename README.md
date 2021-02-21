@@ -39,7 +39,7 @@ CSS art , <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/rea
 
 ## Contact me here!
 
-[![github](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/github.png)][1][![mail](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/mail.png)][2][![facebook](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/fb.png)][3][![linkedin](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/linkedin.png)][4][![instagram](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/instagram.png)][5]
+[![github](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/github.png)][1][![mail](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/mail.png)][2][![facebook](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/fb.png)][3][![linkedin](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/linkedin.png)][4]
 
 [1]: http://www.github.com/Alexjesss
 [2]: <mailto:banica9221@hotmail.be>
@@ -48,4 +48,6 @@ CSS art , <img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/rea
 
 ### For those who are curious about my acting skills
 
-[5]: https://www.instagram.com/alexandra_banica_/
+[![instagram](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/instagram.png)][1]
+
+[1]: https://www.instagram.com/alexandra_banica_/
