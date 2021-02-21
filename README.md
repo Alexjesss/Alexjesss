@@ -1,5 +1,5 @@
 
-###✨ Hello you, welcome to my Github! ✨
+<strong>✨ Hello you, welcome to my Githubpage! ✨</strong>
 
 ![introduction gif ; video by Danial Ahmed from Pexels ](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/intro.gif) 
 
