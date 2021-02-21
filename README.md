@@ -1,8 +1,8 @@
 
 ## <strong>✨ Hello you, welcome to my Githubpage! ✨</strong>
 
-![introduction gif ; video by Danial Ahmed from Pexels ](https://github.com/Alexjesss/Alexjesss/blob/main/visuals/intro.gif width="500px") 
-
+[<img src="https://github.com/Alexjesss/Alexjesss/blob/main/visuals/intro.gif" width="300px" align="center" alt="video by Danial Ahmed from Pexels" title="intro-gif"/>]
+(https://github.com/Alexjesss/Alexjesss/blob/main/visuals/intro.gif) 
 
 
 Here are some ideas to get you started:
