@@ -30,4 +30,4 @@ Because I'm a creative being it came natural to me to be interested in Front-end
 
 ### What I know so far 
 
-[![HTML icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/html.png")] [![CSS icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/css.png")]  [![PHP icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/php.png")]  [![JS icon](https://github.com/Alexjesss/Alexjesss/tree/main/visuals/js.png")]  
+[![HTML icon]("https://github.com/Alexjesss/Alexjesss/blob/main/visuals/html.png")] [![CSS icon]("https://github.com/Alexjesss/Alexjesss/blob/main/visuals/css.png")]  [![PHP icon]("https://github.com/Alexjesss/Alexjesss/blob/main/visuals/php.png")]  [![JS icon]("https://github.com/Alexjesss/Alexjesss/blob/main/visuals/js.png")]  
